@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nill Maikel 👋
 
 
-[![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NillSouza) ![NillSouza](https://github-readme-stats.vercel.app/api/top-langs/?username=NillSouza&hide_progress=true)
+ ![NillSouza](https://github-readme-stats.vercel.app/api/top-langs/?username=NillSouza&hide_progress=true)
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://cubos.academy)
 [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://cubos.academy)
 [![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://cubos.academy)
@@ -27,5 +27,5 @@ Participar de hackathons e competições para aplicar minhas habilidades em cen�
 Buscar mentores e oportunidades de networking para aprender com profissionais experientes.
 Se você acredita na importância de nutrir novos talentos e gostaria de compartilhar seu conhecimento, adoraria ser parte desse aprendizado. Vamos crescer juntos!
 
-Conecte-se comigo: [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nill-maikel-1580b7179/) |  [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nillmaikel@gmail.com)
+Conecte-se comigo: [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nill-maikel-1580b7179/) |  [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nillmaikel@gmail.com) | [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NillSouza)
 
